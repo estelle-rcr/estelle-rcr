@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Estelle
 
 - 🔭 I’m currently a 42 Paris student & a Product Strategist freelancer
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C, C++, NodeJS / NestJS, React with Typescript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelle-rcr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
