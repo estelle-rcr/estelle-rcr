@@ -3,8 +3,6 @@
 - 🔭 I’m currently a 42 Paris student & a Product Strategist freelancer
 - 🌱 C, C++, Node / Nest & React with Typescript, Ruby, Ruby-on-Rails, Docker
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelle-rcr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **estelle-rcr/estelle-rcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
