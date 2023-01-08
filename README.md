@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Estelle
 
-- 🔭 I’m currently a 42 Paris student & a Product Strategist freelancer
+- 🔭 I’m a 42 Paris graduate & a Technical Product/UX Strategist in freelance
 - 🌱 C, C++, Node / Nest & React with Typescript, Ruby, Ruby-on-Rails, Docker
 
 <!--
