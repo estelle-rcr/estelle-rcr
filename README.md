@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Estelle
 
-- 🔭 I’m a 42 Paris graduate & a Technical Product/UX Strategist in freelance
-- 🌱 C, C++, Node / Nest, React, Javascript, Typescript, Ruby, Ruby-on-Rails, Docker
+- 🔭 I’m a 42 Paris graduate 
+- 🌱 C, C++, Javascript, Typescript, Node / Nest, React, Ruby, Ruby-on-Rails, Docker
 
 <!--
 **estelle-rcr/estelle-rcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
