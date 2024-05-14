@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Estelle
 
 - 🔭 I’m a 42 Paris graduate 
-- 🌱 C, C++, Javascript, Typescript, Node, Nest, React, Ruby, Ruby-on-Rails, Docker
+- 🌱 C, C++, Javascript, Typescript, Node, Nest, React, Docker
+
+![Estelle-rcr's GitHub stats](https://github-readme-stats.vercel.app/api?username=estelle-rcr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelle-rcr&layout=compact)
 
 <!--
 **estelle-rcr/estelle-rcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
